@@ -15,5 +15,6 @@ public class StyleTest {
      * @since JprofileTest project_version
      */
     public void SS() {
+        System.out.println("aaa");
     }
 }
